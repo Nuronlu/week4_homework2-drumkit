@@ -1,5 +1,5 @@
 ### DrumKit Canlı Site
-[DrumKit](https://nuronlu.github.io/week4_homework2-drumkit/)
+[DrumKit](https://belidaonlu.github.io/drumkit/)
  
 DrumKit Video:
 
