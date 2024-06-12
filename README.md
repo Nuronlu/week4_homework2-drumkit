@@ -10,5 +10,5 @@ JavaScript: Adding interactivity to the drum kit. It listens for keypress events
 Audio files: Drum sounds played on user interaction.
  
 Video:
-https://github.com/Nuronlu/week4_homework2-drumkit/assets/124145684/7541fc08-c960-4162-895f-15cfb219b3fa
+https://github.com/belidaonlu/week4_homework2-drumkit/assets/124145684/7541fc08-c960-4162-895f-15cfb219b3fa
 
